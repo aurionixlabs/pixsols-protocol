@@ -207,3 +207,39 @@ Initial beachhead use cases:
 Pixsols becomes mandatory when institutions are forced to answer the question:
 “Why was this system allowed to act at that speed?” with a verifiable,
 pre-execution gating record instead of post-incident explanations.
+
+Mandatory Transition Summary — When Pixsols Becomes Non-Optional
+
+Pixsols becomes mandatory when institutions are forced to answer three questions simultaneously, and existing systems cannot.
+	1.	Action Legitimacy (Pathway A)
+When autonomous and semi-autonomous agents perform high-impact actions, enterprises, courts, regulators, and insurers require a replayable, constraint-traceable record of why an action occurred.
+Narrative explanations, logs without provenance, and post-hoc rationalizations are no longer sufficient.
+Systems that cannot produce proof-carrying decision objects lose authority by default.
+	2.	Human Legitimacy (Pathway B)
+When synthetic identities become operationally indistinguishable from real humans, institutions must prove that a real human existed, consented, and remained responsible across time.
+Probabilistic identity signals, platform assurances, and reputation scores fail under dispute.
+Interactions without verifiable human anchoring are treated as legally and operationally unsafe.
+	3.	Physical & Financial Legitimacy (Pathway C)
+When AI systems gain real-time control over physical infrastructure, robotics, or irreversible financial actions, speed becomes a liability rather than an advantage.
+Safety claims without enforceable pre-execution gating are rejected by regulators and insurers.
+Authority is granted only to systems that can demonstrably restrain themselves under latency pressure.
+
+⸻
+
+Convergence Point
+
+Pixsols becomes mandatory at the moment institutions must answer, in court, regulation, insurance underwriting, or procurement:
+
+“Who did what, why did it happen, who authorized it, and could it have been stopped?”
+
+—and the only acceptable answer is a verifiable, replayable, policy-bound record rather than a claim, explanation, or assurance.
+
+At that point:
+	•	Enterprises require Pixsols-compatible proofs to deploy agents.
+	•	Insurers require Pixsols receipts to underwrite risk.
+	•	Regulators accept Pixsols trails as the minimum audit substrate.
+	•	Vendors without Pixsols integration are excluded by default.
+
+Pixsols does not win by adoption preference.
+It becomes required because legitimacy itself becomes infrastructure.
+
